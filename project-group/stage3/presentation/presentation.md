@@ -96,7 +96,6 @@ seedX = radius+2
 seedY = radius+2
 squareSize = radius*2+5
 completeCluster = false
-addedCount = 0
 randomWalkersCount = 0
 ```
 
